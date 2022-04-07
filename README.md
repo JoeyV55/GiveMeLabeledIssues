@@ -2,7 +2,7 @@
 Web platform to find new issues in a variety of open source project issues relevant to your selected project domains! 
 
 
-# Deployment commands:
+# Deployment commands
 
 ## Redeploying Flask project and hosting webpage 
 When changing the server, you need to redeploy the Flask service to Firebase with an authorized account.
